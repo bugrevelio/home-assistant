@@ -2,6 +2,7 @@
 
 This includes tests for all mock object types.
 """
+# pylint: skip-file
 
 from unittest.mock import patch
 

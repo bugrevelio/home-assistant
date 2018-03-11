@@ -1,4 +1,5 @@
 """Tests for the HomeKit component."""
+# pylint: skip-file
 
 import unittest
 from unittest.mock import call, patch, ANY
